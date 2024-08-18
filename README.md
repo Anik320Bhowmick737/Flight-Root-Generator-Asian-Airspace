@@ -1,3 +1,4 @@
+# Please access the nbviewer notebook for Route Gen Asia.ipynb here to checkout the interactive maps of Folium : [Click here](https://nbviewer.org/github/Anik320Bhowmick737/Flight-Root-Generator-Asian-Airspace/blob/main/Route%20Gen%20Asia.ipynb)
 # Flight Root Generator Asian Airspace
 This repository uses Waypoints from Aircraft Navigation Database of Flight Simulator to generate Flight Routes that are most fuel efficient by considering shortest path. Dijkstra Algorithm is used for getting this shortest path.
 
