@@ -3,7 +3,7 @@
 This repository uses Waypoints from Aircraft Navigation Database of Flight Simulator to generate Flight Routes that are most fuel efficient by considering shortest path. Dijkstra Algorithm is used for getting this shortest path.
 
 # Procedure
-The user needs to give the ICAO of Departing and Arrival airport. The code in python will generate the shortest path and shows the output. Lets us consider one such example with a flight from **Kolkata (VECC) to Chennai (VOMM)**:
+The user needs to give the ICAO of Departing and Arrival airport. The code in python will generate the shortest path and shows the output. Lets us consider one such example with a flight from **Kolkata (VECC) to Mumbai (VABB)**:
 ```
 route = get_Route("VECC","VABB")
 print("Waypoints:", route["Route"])
